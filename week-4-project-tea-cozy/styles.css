@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	font-family: "Helvetica", Arial sans-serif;
+	font-size:22px;
+	color: seashell;
+	background-color: #000;
+}
+nav {
+	background-color: #000000;
+	position: fixed;
+}
+nav a {
+	text-decoration: underline;
+	float: right;
+}
